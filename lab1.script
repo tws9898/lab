@@ -1,0 +1,38 @@
+Script started on Fri, Mar  9, 2018  8:33:58 PM
+]0;~
+[32mtws98@DESKTOP-8029HUR [33m~[0m
+$ whoami;pwd
+tws98
+/home/tws98
+]0;~
+[32mtws98@DESKTOP-8029HUR [33m~[0m
+$ git config -l
+core.symlinks=false
+core.autocrlf=true
+core.fscache=true
+color.diff=auto
+color.status=auto
+color.branch=auto
+color.interactive=true
+help.format=html
+rebase.autosquash=true
+http.sslcainfo=D:/Program Files/Git/mingw64/ssl/certs/ca-bundle.crt
+http.sslbackend=openssl
+diff.astextplain.textconv=astextplain
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
+credential.helper=manager
+user.name=tws9898
+user.email=tws9898@gmail.com
+]0;~
+[32mtws98@DESKTOP-8029HUR [33m~[0m
+$ git clone 4[Khttps://github.com/tws9898/lab1.git
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+]0;~
+[32mtws98@DESKTOP-8029HUR [33m~[0m
+$ exit
+
+Script done on Fri, Mar  9, 2018  8:35:19 PM
