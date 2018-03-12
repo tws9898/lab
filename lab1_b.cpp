@@ -12,6 +12,5 @@ int main(){
            else n=n/2;
         }
         std::cout << n;
-        return 0;
+        return 0;       
 }
-
